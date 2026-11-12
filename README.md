@@ -46,7 +46,7 @@ Under "Equal time in office" (first 36 months of each term), real earnings chang
 
 - Line axes start at zero. The one exception is real earnings, whose axis is zoomed and labelled on the chart. Every axis range is fixed, so no filter, toggle or slider rescales it.
 - Every tooltip shows its n, unit, reporting frequency and source series. Every KPI card states its window and n.
-- There are no pies, gauges or 3-D charts. Chart titles state findings in neutral, non-causal language.
+- There are no pies, gauges or 3-D charts. Chart titles state findings in neutral, non-causal language. Under each title, a line gives each term's start → end, and its low and high when the series went outside that range, so the endpoints never hide the path.
 - Gross debt (general government) is never combined with the fiscal balances (consolidated public sector).
 - 2026 is marked as a partial year.
 
